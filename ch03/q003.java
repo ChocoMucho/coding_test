@@ -1,5 +1,16 @@
 package ch03;
 
+//구간 합 기초 개념 문제
+//데이터 개수 N, 질의 개수 Q
+//데이터 배열 A[N개]
+//ex)
+//5 3
+//5 4 3 2 1
+//1 3 => 12
+//2 4 => 9
+//5 5 => 1
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
