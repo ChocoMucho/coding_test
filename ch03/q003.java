@@ -10,7 +10,6 @@ package ch03;
 //2 4 => 9
 //5 5 => 1
 
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
