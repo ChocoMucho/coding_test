@@ -1,4 +1,7 @@
 package ch03;
+//백준 온라인 11003번
+//최솟값 찾기
+//슬라이딩 윈도우, 덱 구조
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
